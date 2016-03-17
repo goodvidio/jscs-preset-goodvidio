@@ -1,0 +1,18 @@
+{
+  "name": "jscs-preset-goodvidio",
+  "main": "jscs.json",
+  "description": "goodvidio jscs presets",
+  "version": "1.0.0",
+  "keywords": [
+    "jscs",
+    "preset",
+    "goodvidio"
+  ],
+  "author": "Goodvidio <info@goodvid.ui> (http://goodvid.io)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodvidio/jscs-preset-goodvidio.git"
+  },
+  "homepage": "https://github.com/goodvidio/jscs-preset-goodvidio"
+}
